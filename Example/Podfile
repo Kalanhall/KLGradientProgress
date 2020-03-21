@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'KLGradientProgress_Example' do
+  pod 'KLGradientProgress', :path => '../'
+
+  target 'KLGradientProgress_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
