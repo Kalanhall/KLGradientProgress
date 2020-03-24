@@ -1,0 +1,27 @@
+PODS:
+  - KLCategory (1.2.0):
+    - KLCategory/Foundation (= 1.2.0)
+    - KLCategory/UIKit (= 1.2.0)
+  - KLCategory/Foundation (1.2.0)
+  - KLCategory/UIKit (1.2.0)
+  - KLGradientProgress (1.0.0)
+
+DEPENDENCIES:
+  - KLCategory (= 1.2.0)
+  - KLGradientProgress (from `../`)
+
+SPEC REPOS:
+  https://github.com/Kalanhall/Specs.git:
+    - KLCategory
+
+EXTERNAL SOURCES:
+  KLGradientProgress:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KLCategory: 226bb7f6e699e6c9b6ec1dd1489d9904b9359262
+  KLGradientProgress: 85f703ef07b8814e398701eb99402760bbbbd87c
+
+PODFILE CHECKSUM: 7bd4af9ca92bb56f0f367af69a413f4c1b773c56
+
+COCOAPODS: 1.8.3

@@ -1,9 +1,14 @@
 use_frameworks!
 
-platform :ios, '8.0'
+platform :ios, '9.0'
+
+source 'https://github.com/CocoaPods/Specs.git'
+source 'https://github.com/Kalanhall/Specs.git'
 
 target 'KLGradientProgress_Example' do
   pod 'KLGradientProgress', :path => '../'
+  
+  pod 'KLCategory', '1.2.0'
 
   target 'KLGradientProgress_Tests' do
     inherit! :search_paths

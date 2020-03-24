@@ -1,0 +1,6 @@
+framework module Pods_KLGradientProgress_Tests {
+  umbrella header "Pods-KLGradientProgress_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

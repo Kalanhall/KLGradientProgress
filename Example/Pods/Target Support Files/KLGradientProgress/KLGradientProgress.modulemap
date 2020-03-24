@@ -1,0 +1,6 @@
+framework module KLGradientProgress {
+  umbrella header "KLGradientProgress-umbrella.h"
+
+  export *
+  module * { export * }
+}
