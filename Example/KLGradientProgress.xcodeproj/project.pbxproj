@@ -38,7 +38,7 @@
 
 /* Begin PBXFileReference section */
 		0D04712430D9BBCFCA5906DE /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		1E8169BD557188E456C11391 /* KLGradientProgress.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = KLGradientProgress.podspec; path = ../KLGradientProgress.podspec; sourceTree = "<group>"; };
+		1E8169BD557188E456C11391 /* KLGradientProgress.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = KLGradientProgress.podspec; path = ../KLGradientProgress.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		39AD97AAC0D9D6585B2A845F /* Pods-KLGradientProgress_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KLGradientProgress_Tests.debug.xcconfig"; path = "Target Support Files/Pods-KLGradientProgress_Tests/Pods-KLGradientProgress_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		541B9FF3C4407B03CE428D6C /* Pods_KLGradientProgress_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_KLGradientProgress_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58A195388D20070C39A /* KLGradientProgress_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KLGradientProgress_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
