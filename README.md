@@ -5,9 +5,9 @@
 [![License](https://img.shields.io/cocoapods/l/KLGradientProgress.svg?style=flat)](https://cocoapods.org/pods/KLGradientProgress)
 [![Platform](https://img.shields.io/cocoapods/p/KLGradientProgress.svg?style=flat)](https://cocoapods.org/pods/KLGradientProgress)
 
-![image](https://github.com/Kalanhall/KLImagesSource/blob/master/WX20200324-104602.png)
-![image](https://github.com/Kalanhall/KLImagesSource/blob/master/WX20200324-104615.png)
-![image](https://github.com/Kalanhall/KLImagesSource/blob/master/WX20200324-104635.png)
+![image](https://github.com/Kalanhall/KLImagesSource/blob/master/KLGradientProgress/WX20200324-104602.png)
+![image](https://github.com/Kalanhall/KLImagesSource/blob/master/KLGradientProgress/WX20200324-104615.png)
+![image](https://github.com/Kalanhall/KLImagesSource/blob/master/KLGradientProgress/WX20200324-104635.png)
 
 ## Example
 

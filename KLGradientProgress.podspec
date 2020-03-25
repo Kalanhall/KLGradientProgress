@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'KLGradientProgress'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = '多色锥形渐变进度圆环'
 
 # This description is used to generate tags and improve search results.
